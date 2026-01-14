@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ZenRise: Gemini Morning Assistant",
+  "description": "A smart morning alarm that greets you with a personalized, AI-generated briefing including local weather, dates, and inspiring quotes using Gemini's high-quality voice synthesis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
